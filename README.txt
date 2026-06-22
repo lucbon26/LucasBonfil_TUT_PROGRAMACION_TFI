@@ -15,6 +15,11 @@ Programación
 ## Programa Utilizado
 
 * PSeInt
+* Visual Studio Code (Para Python)
+
+## Lenguajes
+
+* pseudocódigo
 * Python 3
 
 ## Descripción
